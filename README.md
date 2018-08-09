@@ -5,4 +5,4 @@ Name: Josephat Bungei
 
 Instituition: JKUAT
 
-I am at the OpenScienceKE to learn bioinformatics tools
+I am at the OpenScienceKE to learn about bioinformatics tools
